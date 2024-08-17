@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DrAutomaton
-- 👀 I’m interested in Python, automation, and robotics!
-- 🌱 I’m currently learning Python (forever and always), back-end test automation, and mechatronics.
-- 💞️ I’m looking to collaborate on anything related to Python and/or robots!
+- 👋 Hi, I’m Corey ONeal!
+- 👀 I’m interested in the power of data, Python, and automation.
+- 🌱 I’m currently learning Python (forever and always), various types of automation, and data engineering and analysis techniques.
 - 📫 You can reach me at my email address corey.c.oneal@gmail.com.
 
 <!---
