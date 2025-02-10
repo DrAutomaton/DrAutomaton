@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corey ONeal!
-- 👀 I’m interested in the power of data, Python, and automation.
-- 🌱 I’m currently learning Python (forever and always), various types of automation, and data engineering and analysis techniques.
+- 👀 I’m interested in the power of integrating software with hardware through embedded systems.
+- 🌱 I’m currently learning C and C++ (forever and always), various types of automation, circuit design, and related topics.
 - 📫 You can reach me at my email address corey.c.oneal@gmail.com.
 
 <!---
